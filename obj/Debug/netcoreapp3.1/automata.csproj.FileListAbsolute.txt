@@ -1,0 +1,14 @@
+C:\Users\sabolc\source\repos\automata\automata\bin\Debug\netcoreapp3.1\automata.exe
+C:\Users\sabolc\source\repos\automata\automata\bin\Debug\netcoreapp3.1\automata.deps.json
+C:\Users\sabolc\source\repos\automata\automata\bin\Debug\netcoreapp3.1\automata.runtimeconfig.json
+C:\Users\sabolc\source\repos\automata\automata\bin\Debug\netcoreapp3.1\automata.runtimeconfig.dev.json
+C:\Users\sabolc\source\repos\automata\automata\bin\Debug\netcoreapp3.1\automata.dll
+C:\Users\sabolc\source\repos\automata\automata\bin\Debug\netcoreapp3.1\automata.pdb
+C:\Users\sabolc\source\repos\automata\automata\obj\Debug\netcoreapp3.1\automata.csproj.AssemblyReference.cache
+C:\Users\sabolc\source\repos\automata\automata\obj\Debug\netcoreapp3.1\automata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabolc\source\repos\automata\automata\obj\Debug\netcoreapp3.1\automata.AssemblyInfoInputs.cache
+C:\Users\sabolc\source\repos\automata\automata\obj\Debug\netcoreapp3.1\automata.AssemblyInfo.cs
+C:\Users\sabolc\source\repos\automata\automata\obj\Debug\netcoreapp3.1\automata.csproj.CoreCompileInputs.cache
+C:\Users\sabolc\source\repos\automata\automata\obj\Debug\netcoreapp3.1\automata.dll
+C:\Users\sabolc\source\repos\automata\automata\obj\Debug\netcoreapp3.1\automata.pdb
+C:\Users\sabolc\source\repos\automata\automata\obj\Debug\netcoreapp3.1\automata.genruntimeconfig.cache
